@@ -68,6 +68,10 @@ header {
     text-align: center;
 }
 
+.top-section-1 h2 {
+    font-size: 2rem;
+}
+
 .top-section-1 p {
     width: 80%;
     max-width: 50rem;
@@ -93,7 +97,7 @@ header {
 }
 
 .stats h1 {
-    font-size: 2.75rem;
+    font-size: 4rem;
 }
 
 .stats p {
